@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cat Eyes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="eye" id="eye-left">
+        <div class="pupil" id="pupil-left"></div>
+        <div class="lid top-lid" id="top-lid-left"></div>
+        <div class="lid bottom-lid" id="bottom-lid-left"></div>
+    </div>
+    <div class="eye" id="eye-right">
+        <div class="pupil" id="pupil-right"></div>
+        <div class="lid top-lid" id="top-lid-right"></div>
+        <div class="lid bottom-lid" id="bottom-lid-right"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
